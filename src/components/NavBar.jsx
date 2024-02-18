@@ -15,7 +15,7 @@ const Tabs = styled(NavLink)`
 
 const NavBar = () => {
   return (
-    <Header position="static">
+    <Header position="fixed">
       <Toolbar>
         <Tabs to="/">Logo</Tabs>
         <Tabs to="/home">Home</Tabs>

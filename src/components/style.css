@@ -8,3 +8,30 @@
 .card_area {
   margin: 1em;
 }
+.form_group {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.button_details {
+  width: 10em;
+  height: 4em;
+}
+.input_dimendion {
+  margin-left: 5em;
+  border: "none" !important;
+}
+.submit_group {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2em;
+}
+.submit_button {
+  width: 10em;
+  height: 4em;
+}
